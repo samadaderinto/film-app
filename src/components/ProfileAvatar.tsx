@@ -215,7 +215,7 @@ export const ProfileAvatar = () => {
 
             <StyledMenuItem
               onClick={() => {
-                window.open("https://github.com/maciekt07/TodoApp/issues/new");
+                window.open("https://github.com/tunji93/film-app/issues/new");
               }}
             >
               <BugReportRounded /> &nbsp; Report Issue{" "}

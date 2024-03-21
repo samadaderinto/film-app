@@ -29,7 +29,7 @@
 - **🔎 Search Tasks**: Search functionality allows you to filter tasks by name or description, making it easy to find what you need.
 - **🗣️ Task Reading Aloud**: Option to have tasks read aloud using the native `SpeechSynthesis` API, with a selection of voices to choose from. <br/>
   <img src="public/screenshots/ReadAloud.png" width="250px" />
-- **📥 Import/Export Tasks**: Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/maciekt07/TodoApp/blob/main/example-import.json)
+- **📥 Import/Export Tasks**: Users can import and export tasks to/from JSON files. This feature allows users to back up their tasks or transfer them to other devices easily. [Example Import File](https://github.com/tunji93/film-app/blob/main/example-import.json)
 - **📴 Works offline**: This app is a Progressive Web App (PWA), which means it can be installed on your device and used even when you're offline. You can access and manage your tasks without an internet connection, ensuring uninterrupted productivity.
 
 ## 📷 Screenshots
@@ -64,13 +64,9 @@
 
 To install and run the project locally, follow these steps:
 
-- Clone the repository: `git clone https://github.com/maciekt07/TodoApp.git`
+- Clone the repository: `git clone https://github.com/tunji93/film-app.git`
 - Navigate to the project directory: `cd TodoApp`
 - Install the dependencies: `npm install`
 - Start the development server: `npm run dev`
 
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
-
-<a href="https://www.buymeacoffee.com/maciekt07" target="_blank">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=maciekt07&button_colour=1a1b27&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00"></a>
-</a>
